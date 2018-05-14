@@ -1,0 +1,16 @@
+bin
+build
+.iml 
+.classpath
+.project
+.settings
+*.class
+*.MF
+*.exe
+*.iml
+.checkstyle
+.idea/
+out/
+target/
+*.log
+allure-results/
